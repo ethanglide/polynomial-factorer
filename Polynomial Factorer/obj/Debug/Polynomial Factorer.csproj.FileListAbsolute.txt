@@ -1,0 +1,10 @@
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\bin\Debug\Polynomial Factorer.exe.config
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\bin\Debug\Polynomial Factorer.exe
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\bin\Debug\Polynomial Factorer.pdb
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\obj\Debug\Polynomial Factorer.csprojAssemblyReference.cache
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\obj\Debug\Polynomial_Factorer.Form1.resources
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\obj\Debug\Polynomial_Factorer.Properties.Resources.resources
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\obj\Debug\Polynomial Factorer.csproj.GenerateResource.cache
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\obj\Debug\Polynomial Factorer.csproj.CoreCompileInputs.cache
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\obj\Debug\Polynomial Factorer.exe
+C:\Users\ecook\source\repos\Polynomial Factorer\Polynomial Factorer\obj\Debug\Polynomial Factorer.pdb
